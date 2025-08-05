@@ -1,8 +1,8 @@
-# Yay Thant
+# Yay D
 
- ***Yay Thant***: Smart Water Bottle Distribution Management for Water Transport Services
+ ***Yay D***: Smart Water Bottle Distribution Management for Water Transport Services
 
- ***Yay Thant*** is a modern, easy-to-use application designed to revolutionize water delivery services. With tailored features for Admins, Managers, and Delivery Men, it enables efficient operations, real-time tracking, and seamless customer management to streamline the entire distribution process.
+ ***Yay D*** is a modern, easy-to-use application designed to revolutionize water delivery services. With tailored features for Admins, Managers, and Delivery Men, it enables efficient operations, real-time tracking, and seamless customer management to streamline the entire distribution process.
 
 ## Key Features:
 ### For Admins & Managers
@@ -40,4 +40,4 @@
  - **Secure Account Management** : 
       Update passwords with ease while enjoying enhanced security features.
 
- ***Yay Thant*** combines smart tools, real-time insights, and customer-centric features to deliver an all-in-one solution for water delivery services. Whether you’re managing the business, planning deliveries, or completing routes, ***Yay Thant*** makes the entire process seamless, efficient, and stress-free.
+ ***Yay D*** combines smart tools, real-time insights, and customer-centric features to deliver an all-in-one solution for water delivery services. Whether you’re managing the business, planning deliveries, or completing routes, ***Yay D*** makes the entire process seamless, efficient, and stress-free.
